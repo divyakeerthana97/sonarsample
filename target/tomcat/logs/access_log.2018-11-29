@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [29/Nov/2018:17:44:08 +0530] "GET / HTTP/1.1" 404 949 http-bio-9090-exec-1 122
+0:0:0:0:0:0:0:1 - - [29/Nov/2018:17:44:45 +0530] "GET /api/projectBranchMaps/allnativequery HTTP/1.1" 200 508 http-bio-9090-exec-4 819
+0:0:0:0:0:0:0:1 - - [29/Nov/2018:17:44:46 +0530] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-9090-exec-6 0
